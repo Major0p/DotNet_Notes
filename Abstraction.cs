@@ -1,4 +1,5 @@
-﻿namespace core_Web_App.Classes
+//shubham
+namespace core_Web_App.Classes
 {
     public abstract class AbsCls
     {
